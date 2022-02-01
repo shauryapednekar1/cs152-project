@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+## CS152 Project Proposal - *AI-Ception*
 
-You can use the [editor on GitHub](https://github.com/shauryapednekar1/cs152-project/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Project Description
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Today, AI is able to create extremely realistic content. For instance, a significant amount of news articles are written without any human intervention. 
+With the rise in AI generated content, it is becoming increasing hard for humans to distinguish between human generated and AI generated content. 
+This became increasingly evident to me when I learned of [this](https://this-person-does-not-exist.com/en) that displays pictures of humans that do 
+not actually exist. Their website mentions the following:
+> "AI is so developed that 90% of fakes are not recognized by an ordinary person and 50% are not recognized by an experienced photographer."
 
-### Markdown
+However, since computers don't actually "view" images the same way as humans (as images are essentially just matrices of numbers to computers),
+I'm interested to see whether an AI would have a higher success rate in determining images of real human beings from images of AI generated human 
+beings.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Goals
+- Understand whether AI is able to tell real data from synthetic data (starting with the "thispersondoesnotexist" website).
+- Identify which factors affect AI when telling real data from synthetic data (eg. whether gender/age plays an important role).
+- Explore the practical implications of the results of the project.
+- Explore the ethical concerns of the rise of super-realistic sythetic data.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Fun Task
 
-- Bulleted
-- List
+Below are two images of human beings. Identify which image is of a real human being and which one is of someone that doesn't really exist.
 
-1. Numbered
-2. List
+![person 1](person1.jpeg)
+![person 2](person2.jpeg)
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shauryapednekar1/cs152-project/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
